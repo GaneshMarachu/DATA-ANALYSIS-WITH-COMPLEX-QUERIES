@@ -34,3 +34,16 @@ This task helped deepen my understanding of SQL beyond basic SELECT and JOIN que
 
 Overall, Task 2 was a valuable experience in understanding how SQL can be used not just to retrieve data, but also to analyze and structure it in ways that directly support decision-making and insights generation. This task also sets the stage for exploring even more complex SQL topics such as recursive CTEs, stored procedures, and performance optimization in future tasks.
 
+output:
+
+![Image](https://github.com/user-attachments/assets/9fc20150-795e-4000-8e39-6a56762fcca9)
+
+![Image](https://github.com/user-attachments/assets/3dfd7515-42b0-4fe6-b61c-0a783c65f443)
+
+![Image](https://github.com/user-attachments/assets/948a90f9-a266-4e05-9483-235090b5f432)
+
+![Image](https://github.com/user-attachments/assets/114fd6c2-f59c-4a13-ac6c-8f9933a128ef)
+
+![Image](https://github.com/user-attachments/assets/b6de0520-8655-4e0c-810c-c4d1d2f72d69)
+
+![Image](https://github.com/user-attachments/assets/85756f51-6e94-4f99-aa5c-9d1b8ce50e0d)
